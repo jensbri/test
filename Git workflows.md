@@ -1,4 +1,4 @@
-#Git Commands
+# Git Commands
 
 * `git clone URL`
 * `git status` (see changes)
