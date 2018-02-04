@@ -17,8 +17,8 @@
 - Likelihood doesn't sum up to one 
 - Google Street view (scanner etc. ) is worth more than the car; Oxfort: regular DashCam
 
-<img src="http://drive.google.com/uc?export=view&id=1Kzb9cunRYLeX0b_O_EsiGN8dnMVLNFView" alt="text">
-<img src="http://drive.google.com/uc?export=view&id=1z8-26S5yk88pguQleK9iwnR5vEmo3hSbeQ" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=1Kzb9cunRYLeX0b_O_EsiGN8dnMVLNFView" alt="text" width="640">
+<img src="http://drive.google.com/uc?export=view&id=1z8-26S5yk88pguQleK9iwnR5vEmo3hSbeQ" alt="text" width="640">
 
 
 
@@ -32,11 +32,11 @@
 
 
 
-<img src="http://drive.google.com/uc?export=view&id=11zjJsgoK7BL72z-cRymyVJTfsS4pqX-fww" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=11zjJsgoK7BL72z-cRymyVJTfsS4pqX-fww" alt="text" width="640">
 
-<img src="http://drive.google.com/uc?export=view&id=1epGQFSMrFs1a68XpomweZw4RvCxh2r57wg" alt="text">
-<img src="http://drive.google.com/uc?export=view&id=17F2jpL0mr_g6rJf16xwdEECO1E3Z5D1hrg" alt="text">
-<img src="http://drive.google.com/uc?export=view&id=1BsK0FaVUEU7PGjqfcvucOO4gwQs9qymoYQ" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=1epGQFSMrFs1a68XpomweZw4RvCxh2r57wg" alt="text" width="640">
+<img src="http://drive.google.com/uc?export=view&id=17F2jpL0mr_g6rJf16xwdEECO1E3Z5D1hrg" alt="text" width="640">
+<img src="http://drive.google.com/uc?export=view&id=1BsK0FaVUEU7PGjqfcvucOO4gwQs9qymoYQ" alt="text" width="640">
 
 
 
@@ -60,19 +60,19 @@ Planning in uncertain worlds
 - Know 
 - Assume 
 
-<img src="http://drive.google.com/uc?export=view&id=14gVuMjG1WjynznnHXl7U4VPFZcjI9qBC" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=14gVuMjG1WjynznnHXl7U4VPFZcjI9qBC" alt="text" width="640">
 
-<img src="http://drive.google.com/uc?export=view&id=1PZ7pDgyj7vVXVnyNpX7vOIOqV8JvjEPX5g" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=1PZ7pDgyj7vVXVnyNpX7vOIOqV8JvjEPX5g" alt="text" width="640">
 
-<img src="http://drive.google.com/uc?export=view&id=10KI_ZQZrkch_5IliXUo_MZLePSmRjf2_YQ" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=10KI_ZQZrkch_5IliXUo_MZLePSmRjf2_YQ" alt="text" width="640">
 
 Determinstic: black arrows 
 Probabilistic: open arrows 
 
 
-<img src="http://drive.google.com/uc?export=view&id=10kYBTkV_CyVAe0JORMXwQ9qZXcHnB1504g" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=10kYBTkV_CyVAe0JORMXwQ9qZXcHnB1504g" alt="text" width="640">
 
-<img src="http://drive.google.com/uc?export=view&id=1faXmSHnBSdA6ULVMs-Wkouh14n7uCPG4" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=1faXmSHnBSdA6ULVMs-Wkouh14n7uCPG4" alt="text" width="640">
 
 Robot went back to the kitchen when it oversaw it 
 
