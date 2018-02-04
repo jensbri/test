@@ -5,7 +5,7 @@
 - Machine learning: image net (feed it a few 100'000 images and it learns to distinguish between a motorcycle and a car
 - Training and categorize 
 
-<img src="http://drive.google.com/uc?export=view&id=1CINXgdj2fgiSWUbRZsGskZsusxJrdInf" alt="text">
+<img src="http://drive.google.com/uc?export=view&id=1CINXgdj2fgiSWUbRZsGskZsusxJrdInf" alt="text" width="640">
 
 # 2. unstructured scenarios 
 (autonomous Dakar Rally)
